@@ -1,1 +1,2 @@
 git-changelog==2.5.3
+nicegui==2.21.1
