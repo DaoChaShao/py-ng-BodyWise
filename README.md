@@ -2,9 +2,9 @@
 BodyWise is a personalized fitness and health guidance web application built with NiceGUI.
 
 BodyWise provides customised
-workout and wellness recommendations based on users’ BMI, and—if available—body fat percentage, gender, and lifestyle
-data. Whether you’re underweight, overweight, or simply aiming to optimise your physique, BodyWise helps you make
-smarter, data-driven decisions for your health and fitness journey.
+workout and wellness recommendations based on users’ BMI, and — if available — body fat percentage, gender, and
+lifestyle data. Whether you’re underweight, overweight, or simply aiming to optimise your physique, BodyWise helps you
+make smarter, data-driven decisions for your health and fitness journey.
 
 **PRIVACY NOTICE**  
 This application may require inputting personal information or private data to generate customised suggestions,
