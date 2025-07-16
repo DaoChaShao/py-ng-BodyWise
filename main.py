@@ -6,10 +6,9 @@
 # @File     :   main.py
 # @Desc     :   
 
-def main() -> None:
-    """ Main Function """
-    pass
+from nicegui import ui
 
+# from pages import a_home
+import pages.a_home
 
-if __name__ == "__main__":
-    main()
+ui.run(title="BodyWise", port=8080)
