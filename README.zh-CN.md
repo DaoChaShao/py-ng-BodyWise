@@ -36,7 +36,7 @@ BodyWise 可根据用户的 BMI（身体质量指数）、体脂率（如有）�
 
 **日志生成**（CHANGELOG）
 ---
-1. 使用命令 ```bash pip install git-changelog``` 安装所需依赖项。
+1. 使用命令 `pip install git-changelog` 安装所需依赖项。
 2. 执行 `pip show git-changelog` 检查是否已正确安装该包及其版本。
 3. 在项目根目录下准备 `pyproject.toml` 配置文件。
 4. 更新日志遵循 [Conventional Commits](https://www.conventionalcommits.org/zh-hans/v1.0.0/) 提交规范。
