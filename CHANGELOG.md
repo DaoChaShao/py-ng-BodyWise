@@ -23,7 +23,7 @@
 
 ### Chore
 
-- update CHANGELOG.md to include recent project milestones ([70996a2](https://github.com///commit/70996a219a81a4ac325fa3ebd479969fc5cf2813))
+- update CHANGELOG.md to include recent project milestones ([70c6822](https://github.com///commit/70c6822be411131a0264b8c229a678864374939f))
 - update CHANGELOG.md to reflect recent project milestones and updates ([dfac2aa](https://github.com///commit/dfac2aa03d46e4076139d9395ac0d979c8e137ec))
 - add a BMI standard file ([af3a2a6](https://github.com///commit/af3a2a63977117d420994055602f1a8eb504e349))
 - update CHANGELOG.md to document project milestones and updates ([e1cda15](https://github.com///commit/e1cda15f825979027e2457fdeb597b9629df7e9c))
@@ -32,6 +32,7 @@
 
 ### Docs
 
+- format BMI classification list for improved readability ([c5f983a](https://github.com///commit/c5f983a12b80852948bff6a2a3fd6d3c2f5ecd5d))
 - update README.md to include privacy notice and evaluation standard details ([9c511cf](https://github.com///commit/9c511cf76920df2b9657ee7ae60de35efac19a54))
 - update README.md to clarify evaluation standard for BMI classification ([f0d3e02](https://github.com///commit/f0d3e023304f8f611522bc7c1097f676ab53e28e))
 - add an evaluation standard for BMI classification based on WS/T 428-2003 ([2711a0b](https://github.com///commit/2711a0b12fc33d58929f89687e0702edfa716290))
