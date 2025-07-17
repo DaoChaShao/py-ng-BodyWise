@@ -1,4 +1,6 @@
-**INTRODUCTION**  
+[🇨🇳 中文](./README.zh-CN.md) | [🇬🇧 English](./README.md)
+
+**INTRODUCTION**
 ---
 BodyWise is a personalized fitness and health guidance web application built with NiceGUI.
 
@@ -7,7 +9,7 @@ workout and wellness recommendations based on users’ BMI, and — if available
 lifestyle data. Whether you’re underweight, overweight, or simply aiming to optimise your physique, BodyWise helps you
 make smarter, data-driven decisions for your health and fitness journey.
 
-**PRIVACY NOTICE**  
+**PRIVACY NOTICE**
 ---
 This application may require inputting personal information or private data to generate customised suggestions,
 recommendations and necessary results. However, please rest assured that the application does **NOT** collect, store, or
@@ -15,10 +17,11 @@ transmit your personal information. All processing occurs locally in the browser
 is sent to any external server or third-party service. The entire codebase is open and transparent — you are welcome to
 review the code [here](./) at any time to verify how your data is handled.
 
-**BMI EVALUATION STANDARD**  
+**BMI EVALUATION STANDARD**
 ---
 The BMI (Body Mass Index) and weight classification in this application are based on the WS/T 428-2003 standard (
 Click [here](./assets/WS-T428-2003.pdf) to view the full document) issued by the Chinese Ministry of Health:
+
 - Underweight: BMI < 18.5
 - Normal weight: 18.5 ≤ BMI < 24.0
 - Overweight: 24.0 ≤ BMI < 28.0
@@ -26,12 +29,13 @@ Click [here](./assets/WS-T428-2003.pdf) to view the full document) issued by the
 
 Reference: WS/T 428-2003 — Criteria of weight for adults (China National Health Standard)
 
-**LICENCE**  
+**LICENCE**
 ---
 This application is licensed under the [BSD-3-Clause License](LICENSE). You can click the link to read the licence.
 
 **CREATING THE CHANGELOG**
 ---
+
 1. Install the required dependencies with the command `pip install git-changelog`.
 2. Run the command `pip show git-changelog` to check whether the changelog package has been installed and its version.
 3. Prepare the configuration file of `pyproject.toml` at the root of the file.
@@ -43,5 +47,6 @@ This application is licensed under the [BSD-3-Clause License](LICENSE). You can 
 
 **USING NICEGUI**
 ---
+
 1. Install NiceGUI with the command `pip install nicegui`.
 2. Run the command `pip show nicegui` to check whether the package has been installed and its version.
