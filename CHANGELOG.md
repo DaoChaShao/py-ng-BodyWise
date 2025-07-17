@@ -23,6 +23,7 @@
 
 ### Chore
 
+- update CHANGELOG.md to reflect recent project milestones and updates ([dfac2aa](https://github.com///commit/dfac2aa03d46e4076139d9395ac0d979c8e137ec))
 - add a BMI standard file ([af3a2a6](https://github.com///commit/af3a2a63977117d420994055602f1a8eb504e349))
 - update CHANGELOG.md to document project milestones and updates ([e1cda15](https://github.com///commit/e1cda15f825979027e2457fdeb597b9629df7e9c))
 - add CHANGELOG.md to document project milestones and updates ([66c02a9](https://github.com///commit/66c02a9bc567080e116bfb00911173c904ab695e))
@@ -30,6 +31,7 @@
 
 ### Docs
 
+- update README.md to clarify evaluation standard for BMI classification ([f0d3e02](https://github.com///commit/f0d3e023304f8f611522bc7c1097f676ab53e28e))
 - add an evaluation standard for BMI classification based on WS/T 428-2003 ([2711a0b](https://github.com///commit/2711a0b12fc33d58929f89687e0702edfa716290))
 - improve wording in README.md for clarity and readability ([5239be0](https://github.com///commit/5239be094fbd76ffcfd7051bf76855f168425456))
 - add README.md with project introduction, privacy notice, and usage instructions ([6d7c71a](https://github.com///commit/6d7c71ab443ab5c2f9a6edc73ee02b40c0996d04))
