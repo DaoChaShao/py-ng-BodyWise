@@ -23,8 +23,8 @@
 
 ### Chore
 
+- update CHANGELOG.md to reflect recent project milestones ([98d29fd](https://github.com///commit/98d29fd87c286191b560ef542be31831365da718))
 - update CHANGELOG.md to consolidate recent project milestones ([eb983c1](https://github.com///commit/eb983c1bb2049679b08244842932648b3bd2d49f))
-- update CHANGELOG.md to reflect recent project milestones ([a8bc01b](https://github.com///commit/a8bc01b66288e3f851b2700dc6dfd66782fa4171))
 - update CHANGELOG.md to include recent project milestones ([70c6822](https://github.com///commit/70c6822be411131a0264b8c229a678864374939f))
 - update CHANGELOG.md to reflect recent project milestones and updates ([dfac2aa](https://github.com///commit/dfac2aa03d46e4076139d9395ac0d979c8e137ec))
 - add a BMI standard file ([af3a2a6](https://github.com///commit/af3a2a63977117d420994055602f1a8eb504e349))
@@ -34,6 +34,8 @@
 
 ### Docs
 
+- improve language switch section in Chinese README.md for better visibility ([d4970ec](https://github.com///commit/d4970ecfe9b570942393db1b81a0b92a7e8d56a9))
+- enhance language switch section in README.md for clarity ([f825d06](https://github.com///commit/f825d06137dd68f24f6393699327ebceabe51f9b))
 - update Chinese README.md to enhance formatting and clarity ([731fd36](https://github.com///commit/731fd36a59f5cedf9a2f3d96f23db277482c4f3a))
 - add Chinese README.md for localised user guidance ([8c6b14d](https://github.com///commit/8c6b14d501484636ca930f0da5e0914de54436e0))
 - update README.md to add language options and improve formatting ([7d27be8](https://github.com///commit/7d27be8fe96a94070350c51078f47b0e89eee591))
