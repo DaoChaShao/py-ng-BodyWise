@@ -1,4 +1,7 @@
-Language Switch / 语言选择：[🇨🇳 中文](./README.zh-CN.md) | [🇬🇧 English ](./README.md)
+<p style="text-align: right;">
+  Language Switch / 语言选择：
+  <a href="./README.zh-CN.md">🇨🇳 中文</a> | <a href="./README.md">🇬🇧 English</a>
+</p>
 
 **INTRODUCTION**
 ---
