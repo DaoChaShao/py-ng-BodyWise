@@ -1,4 +1,5 @@
 **INTRODUCTION**  
+---
 BodyWise is a personalized fitness and health guidance web application built with NiceGUI.
 
 BodyWise provides customised
@@ -7,6 +8,7 @@ lifestyle data. Whether you’re underweight, overweight, or simply aiming to op
 make smarter, data-driven decisions for your health and fitness journey.
 
 **PRIVACY NOTICE**  
+---
 This application may require inputting personal information or private data to generate customised suggestions,
 recommendations and necessary results. However, please rest assured that the application does **NOT** collect, store, or
 transmit your personal information. All processing occurs locally in the browser or runtime environment, and **NO** data
@@ -14,6 +16,7 @@ is sent to any external server or third-party service. The entire codebase is op
 review the code [here](./) at any time to verify how your data is handled.
 
 **Evaluation Standard**  
+---
 The BMI (Body Mass Index) and weight classification in this application are based on the WS/T 428-2003 standard (
 Click [here](./assets/WS-T428-2003.pdf) to view the full document) issued by the Chinese Ministry of Health:
 • Underweight: BMI < 18.5
@@ -24,10 +27,11 @@ Click [here](./assets/WS-T428-2003.pdf) to view the full document) issued by the
 Reference: WS/T 428-2003 — Criteria of weight for adults (China National Health Standard)
 
 **LICENCE**  
+---
 This application is licensed under the [BSD-3-Clause License](LICENSE). You can click the link to read the licence.
 
 **CREATING THE CHANGELOG**
-
+---
 1. Install the required dependencies with the command `pip install git-changelog`.
 2. Run the command `pip show git-changelog` to check whether the changelog package has been installed and its version.
 3. Prepare the configuration file of `pyproject.toml` at the root of the file.
@@ -38,6 +42,6 @@ This application is licensed under the [BSD-3-Clause License](LICENSE). You can 
 8. Push the changes to the remote repository with the command `git push origin main` or using the UI interface.
 
 **USING NICEGUI**
-
+---
 1. Install NiceGUI with the command `pip install nicegui`.
 2. Run the command `pip show nicegui` to check whether the package has been installed and its version.
