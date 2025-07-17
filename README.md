@@ -13,7 +13,7 @@ transmit your personal information. All processing occurs locally in the browser
 is sent to any external server or third-party service. The entire codebase is open and transparent — you are welcome to
 review the code [here](./) at any time to verify how your data is handled.
 
-**Evaluation Standard**
+**Evaluation Standard**  
 The BMI (Body Mass Index) and weight classification in this application are based on the WS/T 428-2003 standard (
 Click [here](./assets/WS-T428-2003.pdf) to view the full document) issued by the Chinese Ministry of Health:
 • Underweight: BMI < 18.5
