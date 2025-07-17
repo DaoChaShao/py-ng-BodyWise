@@ -1,4 +1,4 @@
-[🇨🇳 中文](./README.zh-CN.md) | [🇬🇧 English](./README.md)
+Language Switch / 语言选择：[🇨🇳 中文](./README.zh-CN.md) | [🇬🇧 English ](./README.md)
 
 **INTRODUCTION**
 ---
