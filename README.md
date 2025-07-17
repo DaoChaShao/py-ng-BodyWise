@@ -19,10 +19,10 @@ review the code [here](./) at any time to verify how your data is handled.
 ---
 The BMI (Body Mass Index) and weight classification in this application are based on the WS/T 428-2003 standard (
 Click [here](./assets/WS-T428-2003.pdf) to view the full document) issued by the Chinese Ministry of Health:
-• Underweight: BMI < 18.5
-• Normal weight: 18.5 ≤ BMI < 24.0
-• Overweight: 24.0 ≤ BMI < 28.0
-• Obese: BMI ≥ 28.0
+- Underweight: BMI < 18.5
+- Normal weight: 18.5 ≤ BMI < 24.0
+- Overweight: 24.0 ≤ BMI < 28.0
+- Obese: BMI ≥ 28.0
 
 Reference: WS/T 428-2003 — Criteria of weight for adults (China National Health Standard)
 
