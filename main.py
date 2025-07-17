@@ -8,7 +8,8 @@
 
 from nicegui import ui
 
-# from pages import a_home
-import pages.a_home
+from pages import a_home
+from pages import b_calculator
+from pages import c_about
 
 ui.run(title="BodyWise", port=8080)
