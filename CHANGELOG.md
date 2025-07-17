@@ -23,7 +23,7 @@
 
 ### Chore
 
-- update CHANGELOG.md to reflect recent project milestones ([98d29fd](https://github.com///commit/98d29fd87c286191b560ef542be31831365da718))
+- update CHANGELOG.md to reflect recent project milestones ([83b9d56](https://github.com///commit/83b9d568d5ff5840a129cfd7c44fff8fe6457d5c))
 - update CHANGELOG.md to consolidate recent project milestones ([eb983c1](https://github.com///commit/eb983c1bb2049679b08244842932648b3bd2d49f))
 - update CHANGELOG.md to include recent project milestones ([70c6822](https://github.com///commit/70c6822be411131a0264b8c229a678864374939f))
 - update CHANGELOG.md to reflect recent project milestones and updates ([dfac2aa](https://github.com///commit/dfac2aa03d46e4076139d9395ac0d979c8e137ec))
@@ -34,6 +34,8 @@
 
 ### Docs
 
+- enhance the language switch section in Chinese README.md for improved layout ([135fe99](https://github.com///commit/135fe9957887e67142edf5308276fba9d18a2079))
+- improve the language switch section in README.md for better alignment and clarity ([39d06b0](https://github.com///commit/39d06b0e1d15929dc1c8d5b4d7e570daffe54f77))
 - improve language switch section in Chinese README.md for better visibility ([d4970ec](https://github.com///commit/d4970ecfe9b570942393db1b81a0b92a7e8d56a9))
 - enhance language switch section in README.md for clarity ([f825d06](https://github.com///commit/f825d06137dd68f24f6393699327ebceabe51f9b))
 - update Chinese README.md to enhance formatting and clarity ([731fd36](https://github.com///commit/731fd36a59f5cedf9a2f3d96f23db277482c4f3a))
